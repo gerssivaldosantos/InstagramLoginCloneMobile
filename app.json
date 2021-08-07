@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "instagram-login-clone",
+    "slug": "instagram-login-clone",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "instagram-login-clone"
+}
